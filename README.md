@@ -1,5 +1,5 @@
 # contro-python
-Python extensions for control to controll FS20 and 433MHz wireless power switches and dimmers.
+Python implementation to switch and dimm FS20 and 433MHz wireless power switches and dimmers.
 
 # FS20
 Switching a device on Linux:
